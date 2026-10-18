@@ -14,7 +14,7 @@ Academic research on classifying knee X-rays into **Kellgren–Lawrence (KL) gra
 
 https://github.com/user-attachments/assets/6c8829a7-d591-4833-bad3-87e621091627
 
-[Download the MP4](docs/media/knee-oa-reel.mp4) · [HTML source](docs/media/knee-oa-reel.html)
+[Open the live interactive reel](https://knee-oa-grading.netlify.app/) · [Download the MP4](docs/media/knee-oa-reel.mp4) · [HTML source](docs/media/knee-oa-reel.html)
 
 The reel presents historical experiments and illustrative interface scenes; the evaluation limitations above still apply.
 
