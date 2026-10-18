@@ -10,6 +10,14 @@ Academic research on classifying knee X-rays into **Kellgren–Lawrence (KL) gra
 
 > **Evaluation limitation:** a content-hash audit found **2,834 byte-identical image pairs across the committed training and test splits** (2,834 of 2,889 test images). The saved notebook scores are historical observations, not independent-test benchmark claims. The notebook named ResNet50 also constructs InceptionResNetV2. See [dataset findings](docs/DATASET_CARD.md) and [known issues](docs/KNOWN_ISSUES.md) before interpreting any result.
 
+## Project reel
+
+https://github.com/user-attachments/assets/6c8829a7-d591-4833-bad3-87e621091627
+
+[Download the MP4](docs/media/knee-oa-reel.mp4) · [HTML source](docs/media/knee-oa-reel.html)
+
+The reel presents historical experiments and illustrative interface scenes; the evaluation limitations above still apply.
+
 ## Start here
 
 - [Run the maintenance tools or prepare a research environment](docs/REPRODUCIBILITY.md)

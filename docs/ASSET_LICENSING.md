@@ -11,6 +11,7 @@ The [MIT license](../LICENSE) applies to the author's original software, includi
 | ImageNet initialization and external packages | Governed by their own upstream terms |
 | Figures/SHAP/LIME outputs incorporating source X-rays | Reuse may depend on source-image rights |
 | ZIP archive | Mixed contents; no blanket license is asserted |
+| Demo reel (HTML/MP4) | Contains source X-rays and historical explanation figures; their source rights remain separate |
 
 Public GitHub visibility is not a license grant for the dataset. Do not repackage or mirror images, weights, or the paper until rights are documented. Do not claim the entire repository is MIT-licensed data.
 

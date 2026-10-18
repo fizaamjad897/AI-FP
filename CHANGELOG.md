@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Record the original portfolio HTML reel and add a native video preview with source and capture metadata.
+
 - Add maintenance/evaluation dependencies, CSV evaluation and dataset-audit tools.
 - Add functional tests, notebook/documentation checks and GitHub Actions CI.
 - Add contribution, conduct, support, security, citation and licensing guidance.

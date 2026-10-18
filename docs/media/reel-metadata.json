@@ -1,0 +1,13 @@
+{
+  "source_file": "knee-oa-reel.html",
+  "source_sha256": "67e5bffc93bf34cab1ac9021784772efff980b2214d9256f174b7c96f95a7cff",
+  "duration_seconds": 100.2,
+  "frame_rate": 30,
+  "width": 1200,
+  "height": 1200,
+  "audio": false,
+  "capture": "Browser-rendered frames; animations sampled at exact offsets; player controls excluded",
+  "recorded_on": "2026-10-18",
+  "video_sha256": "84cc05b92ad3f7e64909d70edef27de20784ed044965404485b8380824e407fe",
+  "video_bytes": 2717278
+}
