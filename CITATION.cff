@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research repository or its tools, please cite it."
+type: software
+title: "Knee Osteoarthritis Detection and Severity Grading"
+authors:
+  - family-names: Amjad
+    given-names: Fiza
+repository-code: "https://github.com/fizaamjad897/Knee-Osteoarthritis-Grading"
+url: "https://github.com/fizaamjad897/Knee-Osteoarthritis-Grading"
+license: MIT
+abstract: "Academic knee X-ray grading experiments, explainability artifacts, dataset auditing and prediction evaluation tooling. Historical results have documented data overlap and reproducibility limitations."
+keywords:
+  - knee-osteoarthritis
+  - deep-learning
+  - explainable-ai
+  - kellgren-lawrence

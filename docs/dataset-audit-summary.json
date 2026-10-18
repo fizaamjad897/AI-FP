@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "counts": {
+    "train_split": {
+      "0": 2315,
+      "1": 1064,
+      "2": 1558,
+      "3": 777,
+      "4": 177
+    },
+    "test_split": {
+      "0": 1139,
+      "1": 530,
+      "2": 757,
+      "3": 380,
+      "4": 83
+    }
+  },
+  "totals": {
+    "train_split": 5891,
+    "test_split": 2889
+  },
+  "manifest_sha256": "f4e95002df153f225d42dac4ce7dc41ac84ed72be7dea1975c2ac487f69ccef0",
+  "errors": [],
+  "scope": "Exact file content overlap only; this does not establish patient independence.",
+  "dataset": "dataset",
+  "cross_split_duplicate_groups": 2834,
+  "test_files_in_overlap": 2834,
+  "source_commit": "8b87c35d03fa79a7be349d1f4b0afa7775ec3c9e",
+  "audited_on": "2026-10-18"
+}

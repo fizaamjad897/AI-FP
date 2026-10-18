@@ -2,3 +2,19 @@ myenv/
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# Local environments and generated research artifacts
+.venv/
+.venv-*/
+.pytest_cache/
+.ruff_cache/
+reports/
+build/
+*.pyc
+.env
+.env.*
+!*.example
+# Original tracked assets remain tracked; do not add more checkpoints casually.
+*.keras
+*.h5
+*.hdf5

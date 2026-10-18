@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "source_commit": "8b87c35d03fa79a7be349d1f4b0afa7775ec3c9e",
+  "source": "Saved notebook stream outputs; not a new training run",
+  "limitations": [
+    "2834 exact duplicate image groups cross the committed train/test splits",
+    "Sampled per-run filename manifests were not saved",
+    "Test-named split used during validation/model selection",
+    "ResNet50-named notebook constructs InceptionResNetV2"
+  ],
+  "results": [
+    {
+      "notebook": "data_modeling_XceptionModel.ipynb",
+      "output_cell_index": 8,
+      "accuracy": 0.8662,
+      "balanced_accuracy": 0.9017,
+      "evaluation_images": 2750,
+      "status": "historical-unreproduced-validation"
+    },
+    {
+      "notebook": "data_modeling_InceptionResNetV2.ipynb",
+      "output_cell_index": 9,
+      "accuracy": 0.7858,
+      "balanced_accuracy": 0.8433,
+      "evaluation_images": 2750,
+      "status": "historical-unreproduced-validation"
+    },
+    {
+      "notebook": "data_modeling_DenseNet201.ipynb",
+      "output_cell_index": 8,
+      "accuracy": 0.7611,
+      "balanced_accuracy": 0.8042,
+      "evaluation_images": 2750,
+      "status": "historical-unreproduced-validation"
+    },
+    {
+      "notebook": "data_modeling_ResNet50.ipynb",
+      "output_cell_index": 9,
+      "accuracy": 0.7015,
+      "balanced_accuracy": 0.7678,
+      "evaluation_images": 2750,
+      "status": "architecture-attribution-unverified"
+    },
+    {
+      "notebook": "Xception_Model_Test.ipynb",
+      "output_cell_index": 9,
+      "accuracy": 0.8371,
+      "loss": 0.4297,
+      "evaluation_images": 2750,
+      "status": "historical-unreproduced-separate-run"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Proposed current research environment for Python 3.12+.
+# This is NOT the missing original Colab environment lock.
+-r requirements.txt
+tensorflow==2.21.0
+matplotlib==3.11.2
+pandas==3.0.6
+seaborn==0.13.2
+shap==0.54.1
+lime==0.2.0.1
+scikit-image>=0.25,<1
+jupyterlab==4.6.4

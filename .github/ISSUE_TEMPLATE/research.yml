@@ -1,0 +1,22 @@
+name: Research or reproducibility concern
+description: Discuss dataset provenance, evaluation, model identity or reproduction.
+title: "[Research]: "
+body:
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern and evidence
+      description: Reference notebook cells, saved outputs or an audit report. Do not share private records.
+    validations:
+      required: true
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Data, model and code identifiers
+      description: State what is known and what remains unknown.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed correction or experiment

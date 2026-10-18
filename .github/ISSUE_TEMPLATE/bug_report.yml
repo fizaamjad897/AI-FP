@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible problem in the tools or documentation.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Do not include private images, patient identifiers or credentials.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Include commands, affected commit and a sanitized error.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Python, OS, package versions, and CPU/GPU where relevant.
+    validations:
+      required: true
